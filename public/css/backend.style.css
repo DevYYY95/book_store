@@ -1,0 +1,22 @@
+.dataTables_wrapper .dataTables_paginate .paginate_button{
+	min-width: 0px;
+	padding: 0px;
+	margin-left: 0px;
+	border:none;
+}
+.table.dataTable.no-footer{
+	border-bottom: 1px solid #c5c5c5;
+}
+.table-bordered {
+    border: 1px solid #c5c5c5;
+}
+/*.content-wrapper {
+	background-color: #ffffff;
+}*/
+.table.dataTable thead th{
+	background: #e0e0e073;
+}
+.main-footer{
+	background: #ecf0f5;
+	color: #222d32;
+}
